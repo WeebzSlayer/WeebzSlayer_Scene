@@ -38,7 +38,7 @@ Specially designed to create stencils for **login screen backgrounds in Woltk** 
 - **⬜ Background**: Solid White (#FFFFFF)
 - **⚓ Spatial Logic**: Subject Anchor Retention (No shifting)
 
-## 🏆 Credits
+## 👾 Credits
 
 - **[WeebzSlayer](https://github.com/WeebzSlayer)**  
 

@@ -21,7 +21,7 @@ Specially designed to create stencils for **login screen backgrounds in Woltk** 
 ## 🛠 Tech Stack
 
 - **Frontend**: React 19 ⚛️ + Tailwind CSS 🌬️ + TypeScript 📘
-- **AI Core**: Google Gemini 2.5 API (Flash Image) 🧠
+- **AI Core**: Google Gemini 2.5 API (Flash Image) 🧠 I'm trying to implement Gemini 3 at the moment, without reaching the credit limit too early. 
 - **Native Version**: C# .NET 8.0 (Windows Forms) #️⃣
 
 ## 📖 Usage Instructions

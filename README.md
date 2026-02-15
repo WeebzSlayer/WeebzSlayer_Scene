@@ -4,7 +4,7 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows_10%2F11-black?style=flat-square)
 ![Category](https://img.shields.io/badge/Category-Modding-blueviolet?style=flat-square)
 
-**WeebzSlayer_Scene** is an AI-powered background removal tool designed specifically for **technical artists** and **modders** 🎨. Unlike standard background removers that tightly crop subjects, this tool performs **Intelligent Scene Extraction**. Preserving the character and the physical surface they are standing on while erasing sky, horizons, and background clutter.
+**WeebzSlayer_Scene** is a background removal tool designed specifically for **technical artists** and **modders** 🎨. Unlike standard background removers that tightly crop subjects, this tool performs **Intelligent Scene Extraction**. Preserving the character and the physical surface they are standing on while erasing sky, horizons, and background clutter.
 
 Specially designed to create stencils for **login screen backgrounds in Woltk** ❄️.
 
